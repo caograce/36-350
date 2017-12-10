@@ -1,4 +1,4 @@
-cat("Hello Aliens. \n
+cat("Hello Aliens! \n
 I wonder how life on your planet is like, and hopefully we will be able to meet one day.\n
 Although there are many problems with life on Earth, in general it is pretty good. \n
 If you ever come visit, make sure you see the fabulous creatures known as dogs. They are \n
